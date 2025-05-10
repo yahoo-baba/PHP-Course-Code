@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Yahoo Baba",
+    "age": "25",
+    "city": "Delhi"
+  },
+  {
+    "id": "2",
+    "name": "Salman Khan",
+    "age": "24",
+    "city": "Agra"
+  },
+  {
+    "id": "3",
+    "name": "Shahid Kapoor",
+    "age": "24",
+    "city": "Bhopal"
+  },
+  {
+    "id": "4",
+    "name": "Juhi Chawla",
+    "age": "26",
+    "city": "Delhi"
+  },
+  {
+    "id": "5",
+    "name": "Katrina Kaif",
+    "age": "23",
+    "city": "Mumbai"
+  }
+]
